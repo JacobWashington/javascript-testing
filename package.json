@@ -16,5 +16,14 @@
   "bugs": {
     "url": "https://github.com/JacobWashington/javascript-testing/issues"
   },
-  "homepage": "https://github.com/JacobWashington/javascript-testing#readme"
+  "homepage": "https://github.com/JacobWashington/javascript-testing#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.0",
+    "method-override": "^3.0.0"
+  },
+  "devDependencies": {
+    "chai": "^4.3.0",
+    "mocha": "^8.2.1"
+  }
 }
